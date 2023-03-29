@@ -1,4 +1,6 @@
-<h2 align="left">Ola, meu nome é Osmar, amo a linguagem python. Não tive oportunidade de trabalhar como dev, mas tiro três horas todos os  dias para estudar e me atualizar sobre python e java. Tenho conhecimento em MySQL.
+<h2 align="left">Ola, meu nome é Osmar, amo a linguagem python. 
+Não tive oportunidade de trabalhar como dev, tiro três horas todos os  dias para estudar e me atualizar sobre python e java. 
+Tenho conhecimento em MySQL.
 Contato pelo linkedin ou pelo e-mail: islaidsch@gmail.com</h2>
 
 ###
