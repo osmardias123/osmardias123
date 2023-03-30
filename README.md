@@ -1,6 +1,5 @@
-<h2 align="left">Ola, meu nome é Osmar, amo a linguagem python. 
-Não tive oportunidade de trabalhar como dev, tiro três horas todos os  dias para estudar e me atualizar sobre python e java. Curso Engenharia de Software
-tenho conhecimento em banco de dados relacional MySQL.
+<h2 align="left">Ola, tenho procurado oportunidades para trabalhar como dev, tenho tirado três horas todos os dias para estudar e me atualizara mais de um ano. Curso Engenharia de Software e 
+tenho conhecimento em banco de dados relacional MySQL, python, PowerBi, java. Aos poucos estarei colocando projetos para praticar e mostrar meu trabalho.
 Contato pelo linkedin ou pelo e-mail: islaidsch@gmail.com</h2>
 
 ###
