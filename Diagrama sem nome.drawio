@@ -166,7 +166,7 @@
         <mxCell id="py3vc3VxRN0Vh_GnvRb9-65" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;AAAAAAA_ID - fk&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;DETCLASARQ_ID - fk&lt;/span&gt;" style="text;strokeColor=none;fillColor=#FFE599;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="py3vc3VxRN0Vh_GnvRb9-64">
           <mxGeometry y="40" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="py3vc3VxRN0Vh_GnvRb9-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.683;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="py3vc3VxRN0Vh_GnvRb9-46" target="py3vc3VxRN0Vh_GnvRb9-65">
+        <mxCell id="py3vc3VxRN0Vh_GnvRb9-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.011;exitY=0.172;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="py3vc3VxRN0Vh_GnvRb9-47" target="py3vc3VxRN0Vh_GnvRb9-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="1060" as="sourcePoint" />
           </mxGeometry>
