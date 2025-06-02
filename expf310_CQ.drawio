@@ -668,8 +668,16 @@
         <mxCell id="51tCgiJPp_jyrfo2Mxj6-129" value="fecha com o sif" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2000" y="1090" width="140" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="axfd206tv7BlM1DMQP1l-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="51tCgiJPp_jyrfo2Mxj6-130" target="axfd206tv7BlM1DMQP1l-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axfd206tv7BlM1DMQP1l-18" value="Consulta especifica apenas para mostrar sem inc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axfd206tv7BlM1DMQP1l-17">
+          <mxGeometry x="0.1411" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="51tCgiJPp_jyrfo2Mxj6-130" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;missao_sif_qualid&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFD966,#AF543C);" parent="1" vertex="1">
-          <mxGeometry x="-1800" y="970" width="130" height="100" as="geometry" />
+          <mxGeometry x="-1790" y="980" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="51tCgiJPp_jyrfo2Mxj6-131" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;MISSIFQUAL_ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;ABHABSIFEX_ID&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;REGMISSQUA_ID&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=#FFE599;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="51tCgiJPp_jyrfo2Mxj6-130" vertex="1">
           <mxGeometry y="40" width="130" height="60" as="geometry" />
@@ -776,8 +784,14 @@
         <mxCell id="axfd206tv7BlM1DMQP1l-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axfd206tv7BlM1DMQP1l-8" target="axfd206tv7BlM1DMQP1l-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="axfd206tv7BlM1DMQP1l-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="51tCgiJPp_jyrfo2Mxj6-130" target="axfd206tv7BlM1DMQP1l-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="axfd206tv7BlM1DMQP1l-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.897;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.027;exitY=0.298;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="51tCgiJPp_jyrfo2Mxj6-130" target="axfd206tv7BlM1DMQP1l-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1790" y="1030" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1786" y="1040" />
+              <mxPoint x="-2377" y="1040" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="axfd206tv7BlM1DMQP1l-16" value="Consulta por cooporativo ou unidade&lt;br&gt;se é coorporativo o&amp;nbsp;&lt;br&gt;regmissqua_id&lt;br&gt;unidade + abhabsifex_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axfd206tv7BlM1DMQP1l-15">
           <mxGeometry x="0.1011" relative="1" as="geometry">
