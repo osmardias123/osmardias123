@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Página-1" id="adTXmYuTbM5MDjhpA_mE">
-    <mxGraphModel dx="4845" dy="3066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6381" dy="3794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3882,7 +3882,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HWAEgc-R0Cd69CD3lNua-45" value="parceiro_exp" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="11860" y="-1174" width="140" height="130" as="geometry" />
+          <mxGeometry x="10880" y="-400" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HWAEgc-R0Cd69CD3lNua-46" value="&lt;div&gt;&lt;div&gt;PARCEIREXP_ID&lt;/div&gt;&lt;div&gt;CD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_INCL&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;PESSOA_ID&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;TXT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="HWAEgc-R0Cd69CD3lNua-45">
           <mxGeometry y="30" width="140" height="100" as="geometry" />
@@ -3897,7 +3897,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HWAEgc-R0Cd69CD3lNua-49" value="peju" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="12060" y="-1219" width="150" height="240" as="geometry" />
+          <mxGeometry x="11060" y="-440" width="150" height="240" as="geometry" />
         </mxCell>
         <mxCell id="HWAEgc-R0Cd69CD3lNua-50" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;PEJU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CGC_RAIZ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CGC_FILIAL&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CGC_DV&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;PESSOA_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;REGITRIBTV_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;TPCONTRITV_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CREDENRNTV_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;INSCR_MUNIC&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CD_SIF&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;REG_JUNTA_COMERC&lt;/div&gt;&lt;div&gt;REG_INCRA&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_REG_RFB&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="HWAEgc-R0Cd69CD3lNua-49">
           <mxGeometry y="30" width="150" height="210" as="geometry" />
