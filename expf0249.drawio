@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Página-1" id="adTXmYuTbM5MDjhpA_mE">
-    <mxGraphModel dx="4742" dy="2982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6066" dy="3576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3761,7 +3761,7 @@
         <mxCell id="HWAEgc-R0Cd69CD3lNua-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.02;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ex9glhG9PmfCl6Eva5zG-23" target="HWAEgc-R0Cd69CD3lNua-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HWAEgc-R0Cd69CD3lNua-11" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;EXPF0305&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;validação para&amp;nbsp; parceiro&lt;br&gt;a partir do embarque&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HWAEgc-R0Cd69CD3lNua-11" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;EXPF0305&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;validação para&amp;nbsp; parceiro e&lt;br&gt;pessoa para pre-debitnote&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10890" y="-1276" width="900" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HWAEgc-R0Cd69CD3lNua-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWAEgc-R0Cd69CD3lNua-15" target="HWAEgc-R0Cd69CD3lNua-84">
@@ -3827,7 +3827,7 @@
         <mxCell id="HWAEgc-R0Cd69CD3lNua-28" value="&lt;div&gt;&lt;div&gt;PARCLIEME_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CLIEME_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;TPARCEXPTV_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;PESSOA_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;PADRAO&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;COMPL&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;PADENDER_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;IDIOMATV_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="HWAEgc-R0Cd69CD3lNua-27">
           <mxGeometry y="30" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="HWAEgc-R0Cd69CD3lNua-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWAEgc-R0Cd69CD3lNua-29" target="HWAEgc-R0Cd69CD3lNua-48">
+        <mxCell id="HWAEgc-R0Cd69CD3lNua-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWAEgc-R0Cd69CD3lNua-29" target="HWAEgc-R0Cd69CD3lNua-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HWAEgc-R0Cd69CD3lNua-29" value="pessoa" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
@@ -3856,9 +3856,6 @@
         </mxCell>
         <mxCell id="HWAEgc-R0Cd69CD3lNua-37" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;CLIE_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_INCL&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;GRCLIFINTV_ID&lt;/div&gt;&lt;div&gt;PESSOA_ID&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;OBS&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;TPCOBRANTV_ID&lt;/div&gt;&lt;div&gt;BANCO_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;TPPAGTOTV_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT_RECEITA&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT_SUFRAMA&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="HWAEgc-R0Cd69CD3lNua-36">
           <mxGeometry y="30" width="140" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="HWAEgc-R0Cd69CD3lNua-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWAEgc-R0Cd69CD3lNua-38" target="HWAEgc-R0Cd69CD3lNua-36">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HWAEgc-R0Cd69CD3lNua-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWAEgc-R0Cd69CD3lNua-38" target="HWAEgc-R0Cd69CD3lNua-27">
           <mxGeometry relative="1" as="geometry" />
@@ -4052,6 +4049,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HWAEgc-R0Cd69CD3lNua-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HWAEgc-R0Cd69CD3lNua-92" target="HWAEgc-R0Cd69CD3lNua-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWAEgc-R0Cd69CD3lNua-126" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.385;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HWAEgc-R0Cd69CD3lNua-36" target="HWAEgc-R0Cd69CD3lNua-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
