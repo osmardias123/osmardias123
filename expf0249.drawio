@@ -4954,7 +4954,7 @@
             <mxGeometry x="1688" y="3391" width="782" height="370" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="GDN-BY3CpFNviodkLgIK-1" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="GDN-BY3CpFNviodkLgIK-1" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="13245" y="-1320" width="2735" height="1590" as="geometry" />
         </mxCell>
         <mxCell id="GDN-BY3CpFNviodkLgIK-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;&quot;&gt;PK_EXP_OTIMIZ_265.&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;FKG_VLR_META_FRETE_TT&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
@@ -5490,12 +5490,12 @@
         <mxCell id="GDN-BY3CpFNviodkLgIK-183" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;EXPF0357&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="13263" y="344.5" width="467" height="60.5" as="geometry" />
         </mxCell>
-        <mxCell id="GDN-BY3CpFNviodkLgIK-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;exitX=-0.007;exitY=0.586;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GDN-BY3CpFNviodkLgIK-26">
+        <mxCell id="GDN-BY3CpFNviodkLgIK-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;exitX=-0.007;exitY=0.586;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GDN-BY3CpFNviodkLgIK-26" target="GDN-BY3CpFNviodkLgIK-195">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="14250.021124955969" y="-743.9999944219865" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GDN-BY3CpFNviodkLgIK-195" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;o grupo deve de ser parametrizado na logf0230&amp;nbsp; grupo cidade e abaixo localogistico (expl: 9131, 651) e apos isto usar o grupo da cidade&amp;nbsp; por&amp;nbsp; unidade no cadastro de km na logf0233&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="GDN-BY3CpFNviodkLgIK-195" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 6px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;o grupo deve de ser parametrizado na logf0230&amp;nbsp; grupo cidade e abaixo localogistico (expl: 9131, 651) e apos isto usar o grupo da cidade&amp;nbsp; por&amp;nbsp; unidade no cadastro de km na logf0233&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=6;fontColor=default;resizable=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="14178" y="-749" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
