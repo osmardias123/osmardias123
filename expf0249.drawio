@@ -5495,7 +5495,7 @@
             <mxPoint x="14250.021124955969" y="-743.9999944219865" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GDN-BY3CpFNviodkLgIK-195" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;o grupo deve de ser parametrizado na logf0230 e apos isto usar o grupo por&amp;nbsp; unidade no cadastro de km na logf0233&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="GDN-BY3CpFNviodkLgIK-195" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;o grupo deve de ser parametrizado na logf0230&amp;nbsp; grupo cidade e abaixo localogistico (expl: 9131, 651) e apos isto usar o grupo da cidade&amp;nbsp; por&amp;nbsp; unidade no cadastro de km na logf0233&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="14178" y="-749" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
