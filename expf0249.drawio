@@ -5412,7 +5412,7 @@
         <mxCell id="GDN-BY3CpFNviodkLgIK-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;" parent="1" source="GDN-BY3CpFNviodkLgIK-152" target="GDN-BY3CpFNviodkLgIK-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GDN-BY3CpFNviodkLgIK-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;" parent="1" source="GDN-BY3CpFNviodkLgIK-152" target="GDN-BY3CpFNviodkLgIK-128" edge="1">
+        <mxCell id="GDN-BY3CpFNviodkLgIK-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;exitX=0.221;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GDN-BY3CpFNviodkLgIK-153" target="GDN-BY3CpFNviodkLgIK-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GDN-BY3CpFNviodkLgIK-152" value="equiv_tab_frete" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" parent="1" vertex="1">
