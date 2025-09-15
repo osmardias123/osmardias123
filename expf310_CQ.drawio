@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Página-1" id="PtGLryCrLmSfJg2WmDnL">
-    <mxGraphModel dx="10736" dy="2729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9748" dy="2261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -985,6 +985,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5270" y="430" as="sourcePoint" />
             <mxPoint x="-4881" y="-100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-4983" y="290" />
+              <mxPoint x="-4880" y="290" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RXf0xGmaM7T0Lzu563Ta-5" value="GERA_OCORRECIA INCLUSÃO PRODUTOS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXf0xGmaM7T0Lzu563Ta-4">
@@ -1039,7 +1043,7 @@
             <mxPoint x="-3500" y="607.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RXf0xGmaM7T0Lzu563Ta-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RXf0xGmaM7T0Lzu563Ta-20" target="RXf0xGmaM7T0Lzu563Ta-1">
+        <mxCell id="RXf0xGmaM7T0Lzu563Ta-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.701;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RXf0xGmaM7T0Lzu563Ta-20" target="RXf0xGmaM7T0Lzu563Ta-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RXf0xGmaM7T0Lzu563Ta-23" value="SALVA RELACIONAMENTO DOS grupos produtos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RXf0xGmaM7T0Lzu563Ta-22">
