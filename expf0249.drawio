@@ -5559,13 +5559,13 @@
         <mxCell id="1bXJMepvdE53uv--vTGI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.684;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1bXJMepvdE53uv--vTGI-1" target="XpTz7VHpz9d6Ny0t5UGZ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1bXJMepvdE53uv--vTGI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1bXJMepvdE53uv--vTGI-8">
+        <mxCell id="1bXJMepvdE53uv--vTGI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.002;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1bXJMepvdE53uv--vTGI-6" target="1bXJMepvdE53uv--vTGI-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2581" y="2357" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1bXJMepvdE53uv--vTGI-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;rel_desplogexp_adtodevol&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="2280" width="180" height="120" as="geometry" />
+          <mxGeometry x="2580" y="2282.5" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1bXJMepvdE53uv--vTGI-6" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;DEXPADTODE_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;DESPLOGEXP_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;ADTODEVOL_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;TPMOEDA_ID&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;VLR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;COT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1bXJMepvdE53uv--vTGI-5">
           <mxGeometry y="30" width="180" height="90" as="geometry" />
