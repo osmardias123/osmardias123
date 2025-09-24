@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Página-1" id="adTXmYuTbM5MDjhpA_mE">
-    <mxGraphModel dx="5417" dy="3285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4333" dy="2798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,6 +838,9 @@
         <mxCell id="YMMd21XJVjTPSa2mOjRS-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YMMd21XJVjTPSa2mOjRS-41" target="YMMd21XJVjTPSa2mOjRS-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1bXJMepvdE53uv--vTGI-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YMMd21XJVjTPSa2mOjRS-41" target="1bXJMepvdE53uv--vTGI-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YMMd21XJVjTPSa2mOjRS-41" value="&lt;div style=&quot;text-align: left;&quot;&gt;baixa_desp_log_exp&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="3341" y="3110" width="180" height="200" as="geometry" />
         </mxCell>
@@ -862,8 +865,8 @@
         <mxCell id="YMMd21XJVjTPSa2mOjRS-47" value="vlr_rec e valor acordo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="3811" y="3033" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YMMd21XJVjTPSa2mOjRS-50" value="vlr_baixado" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3611" y="3210" width="190" height="80" as="geometry" />
+        <mxCell id="YMMd21XJVjTPSa2mOjRS-50" value="vlr_baixado =&lt;br&gt;&lt;span style=&quot;text-align: left;&quot;&gt;baixa_desp_log_exp +&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;vinculo_abattransp_baixa.vlr_receb&lt;/span&gt;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3611" y="3210" width="209" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YMMd21XJVjTPSa2mOjRS-52" value="vlr _ vinculado ao custeio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=30;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="3011" y="3190" width="190" height="80" as="geometry" />
@@ -5796,6 +5799,16 @@
         </mxCell>
         <mxCell id="1bXJMepvdE53uv--vTGI-95" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1bXJMepvdE53uv--vTGI-93" target="ShqsWylJnbsJ_pA1Y3pd-53">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1bXJMepvdE53uv--vTGI-96" value="vlr_saldo=&lt;br&gt;&lt;span style=&quot;text-align: left;&quot;&gt;baixa_desp_log_exp -&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;valor_baixado -&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(26, 26, 26), rgb(215, 215, 215));&quot;&gt;vlr_conf_nfen_custeio&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=30;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3410" y="3341" width="209" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1bXJMepvdE53uv--vTGI-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.282;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1bXJMepvdE53uv--vTGI-96" target="YMMd21XJVjTPSa2mOjRS-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3670" y="3350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
