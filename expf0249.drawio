@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Página-1" id="adTXmYuTbM5MDjhpA_mE">
-    <mxGraphModel dx="6785" dy="2785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7168" dy="2957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6288,6 +6288,9 @@
         <mxCell id="rcRACgMJvYfOEjKeRVIk-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcRACgMJvYfOEjKeRVIk-7" target="rcRACgMJvYfOEjKeRVIk-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rcRACgMJvYfOEjKeRVIk-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcRACgMJvYfOEjKeRVIk-7" target="rcRACgMJvYfOEjKeRVIk-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rcRACgMJvYfOEjKeRVIk-7" value="vlr_pre_debit_note" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="3491" y="4695.5" width="180" height="250" as="geometry" />
         </mxCell>
@@ -6376,7 +6379,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcRACgMJvYfOEjKeRVIk-39" value="&lt;div style=&quot;text-align: left;&quot;&gt;recip_carga_exp&amp;nbsp;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="3171" y="4738.5" width="180" height="150" as="geometry" />
+          <mxGeometry x="3231" y="4550" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="rcRACgMJvYfOEjKeRVIk-40" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;RECPCAREXP_ID&lt;/div&gt;&lt;div&gt;NRO&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_INCL&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;UNIDCARGA_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CARROCVEIC_ID&lt;/div&gt;&lt;div&gt;TARA&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;PAYLOAD&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="rcRACgMJvYfOEjKeRVIk-39">
           <mxGeometry y="30" width="180" height="120" as="geometry" />
@@ -6589,6 +6592,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcRACgMJvYfOEjKeRVIk-140" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rcRACgMJvYfOEjKeRVIk-136" target="rcRACgMJvYfOEjKeRVIk-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rcRACgMJvYfOEjKeRVIk-141" value="embarq_exp" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="3251" y="4727" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rcRACgMJvYfOEjKeRVIk-142" value="&lt;div&gt;EMBARQEXP_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;NRO&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_INCL&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;NOMEACAEXP_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_CONFIRM&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="rcRACgMJvYfOEjKeRVIk-141">
+          <mxGeometry y="30" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rcRACgMJvYfOEjKeRVIk-143" value="plano_embarq_exp" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="3251" y="4860" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rcRACgMJvYfOEjKeRVIk-144" value="&lt;div&gt;PLANEMBEXP_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;NRO&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DATA_INCL&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CANC&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;UNIDCARGA_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_INIC_EMBARQ&lt;/div&gt;&lt;div&gt;DT_FIM_EMBARQ&amp;nbsp;&lt;/div&gt;&lt;div&gt;UNID_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;LOCORIDEST_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="rcRACgMJvYfOEjKeRVIk-143">
+          <mxGeometry y="30" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rcRACgMJvYfOEjKeRVIk-145" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcRACgMJvYfOEjKeRVIk-8" target="rcRACgMJvYfOEjKeRVIk-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
