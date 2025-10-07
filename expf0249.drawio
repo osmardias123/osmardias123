@@ -6639,6 +6639,9 @@
         <mxCell id="rcRACgMJvYfOEjKeRVIk-180" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcRACgMJvYfOEjKeRVIk-153" target="rcRACgMJvYfOEjKeRVIk-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rcRACgMJvYfOEjKeRVIk-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rcRACgMJvYfOEjKeRVIk-153" target="rcRACgMJvYfOEjKeRVIk-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rcRACgMJvYfOEjKeRVIk-153" value="&lt;div style=&quot;text-align: left;&quot;&gt;vlr_debit_note&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="5481" y="4765.5" width="220" height="250" as="geometry" />
         </mxCell>
