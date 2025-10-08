@@ -6777,7 +6777,7 @@
           <mxGeometry y="40" width="170" height="600" as="geometry" />
         </mxCell>
         <mxCell id="rcRACgMJvYfOEjKeRVIk-199" value="verifica se esta encerrado" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=40;horizontal=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5110" y="4226" width="80" height="80" as="geometry" />
+          <mxGeometry x="5140" y="4279" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcRACgMJvYfOEjKeRVIk-202" value="consulta a expf0174_temp&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=30;horizontal=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="5181" y="4440" width="80" height="80" as="geometry" />
