@@ -414,7 +414,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j-2PiekXpVhj88xLtMZM-44" value="HIST_ENV_PORTAL_UNICO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="5600" y="1331" width="170" height="205" as="geometry" />
+          <mxGeometry x="5151" y="2280" width="170" height="205" as="geometry" />
         </mxCell>
         <mxCell id="j-2PiekXpVhj88xLtMZM-45" value="&lt;div&gt;&lt;div&gt;HISTENVPU_ID&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;NRO_EMBARQ&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;NRO_PLANO_EMBARQ&lt;/div&gt;&lt;div&gt;DT_INCL&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT_ENV_LPCO&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT_ENV_DUE&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;OCOR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT_ENV_RUC&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT_ENV_SEGURO&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" parent="j-2PiekXpVhj88xLtMZM-44" vertex="1">
           <mxGeometry y="35" width="170" height="170" as="geometry" />
@@ -4955,7 +4955,7 @@
           <mxGeometry x="13580" y="3471" width="320" height="55" as="geometry" />
         </mxCell>
         <mxCell id="tLCzBLQcb26kULe6gTep-6" value="regra_categ_paises" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="5592" y="1405" width="170" height="110" as="geometry" />
+          <mxGeometry x="5535" y="1375" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tLCzBLQcb26kULe6gTep-7" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;REGRACATPA_ID&lt;/div&gt;&lt;div&gt;CATDOCEXP_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;PAISES_ID&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;REGRA_EXC&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" parent="tLCzBLQcb26kULe6gTep-6" vertex="1">
           <mxGeometry y="30" width="170" height="80" as="geometry" />
