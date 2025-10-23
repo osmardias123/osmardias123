@@ -7117,6 +7117,9 @@
         <mxCell id="Bg_j1yQPTKvuwHkhHoML-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bg_j1yQPTKvuwHkhHoML-20" target="Bg_j1yQPTKvuwHkhHoML-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Bg_j1yQPTKvuwHkhHoML-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bg_j1yQPTKvuwHkhHoML-20" target="Bg_j1yQPTKvuwHkhHoML-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bg_j1yQPTKvuwHkhHoML-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: monospace; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(234, 234, 234);&quot;&gt;transportador_ordem_venda_exp &lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="950" y="6215" width="240" height="90" as="geometry" />
         </mxCell>
@@ -7182,6 +7185,12 @@
         </mxCell>
         <mxCell id="Bg_j1yQPTKvuwHkhHoML-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bg_j1yQPTKvuwHkhHoML-14" target="Bg_j1yQPTKvuwHkhHoML-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg_j1yQPTKvuwHkhHoML-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bg_j1yQPTKvuwHkhHoML-20" target="Bg_j1yQPTKvuwHkhHoML-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg_j1yQPTKvuwHkhHoML-46" value="REGRAS DE LIBERAÇÂO :&lt;div&gt;selecionado - apenas eles podem.&lt;/div&gt;&lt;div&gt;&lt;br&gt;tem registro mas nenhum selecionado= todos menos eles.&lt;/div&gt;&lt;div&gt;&lt;br&gt;não tem registro = todos podem&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=30;horizontal=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="6160" width="240" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
