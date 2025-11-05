@@ -7524,6 +7524,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6NSrAzmnXoQEOjLeQoWY-106" value="MAX seq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6NSrAzmnXoQEOjLeQoWY-93">
+          <mxGeometry x="0.7287" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6NSrAzmnXoQEOjLeQoWY-98" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.628;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6NSrAzmnXoQEOjLeQoWY-53" target="6NSrAzmnXoQEOjLeQoWY-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
