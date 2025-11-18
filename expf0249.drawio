@@ -7804,6 +7804,9 @@
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-323" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.069;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-313" target="Wc3HgubNO0bQ5b3_XUHg-320">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-329" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-325" target="ShqsWylJnbsJ_pA1Y3pd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-325" value="func_pessoa_grupo_pessoa" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="12071" y="2425" width="160" height="130" as="geometry" />
         </mxCell>
@@ -7811,9 +7814,6 @@
           <mxGeometry y="30" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-327" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.161;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ShqsWylJnbsJ_pA1Y3pd-21" target="Wc3HgubNO0bQ5b3_XUHg-326">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-328" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ShqsWylJnbsJ_pA1Y3pd-10" target="Wc3HgubNO0bQ5b3_XUHg-326">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
