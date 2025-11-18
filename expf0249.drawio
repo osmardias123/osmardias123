@@ -7781,6 +7781,11 @@
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-315" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-290" target="Wc3HgubNO0bQ5b3_XUHg-314">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-324" value="embarque&lt;br&gt;desembarque&lt;br&gt;fronteira(via)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wc3HgubNO0bQ5b3_XUHg-315">
+          <mxGeometry x="0.3319" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-316" value="&lt;div style=&quot;text-align: left;&quot;&gt;cidade&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="11699" y="-2190" width="140" height="110" as="geometry" />
         </mxCell>
