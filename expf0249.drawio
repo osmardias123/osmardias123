@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Página-1" id="adTXmYuTbM5MDjhpA_mE">
-    <mxGraphModel dx="6552" dy="5019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6876" dy="5164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7833,6 +7833,20 @@
         </mxCell>
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-336" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-332" target="Wc3HgubNO0bQ5b3_XUHg-335">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-337" value="&lt;div style=&quot;text-align: left;&quot;&gt;contrato_pend_exp&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#F5AB50,#FFB570);strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="11435" y="-1320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-338" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;CNTRPENEXP_ID&lt;/div&gt;&lt;div&gt;CONTRATEXP_ID&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="Wc3HgubNO0bQ5b3_XUHg-337">
+          <mxGeometry y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-337" target="Wc3HgubNO0bQ5b3_XUHg-293">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-340" value="não nulo = 1&lt;br&gt;pendente&lt;br&gt;se for null =0&lt;br&gt;contrato aberto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wc3HgubNO0bQ5b3_XUHg-339">
+          <mxGeometry x="-0.169" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
