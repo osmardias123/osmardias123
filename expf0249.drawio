@@ -7884,6 +7884,11 @@
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-353" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.335;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-290" target="Wc3HgubNO0bQ5b3_XUHg-352">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-355" value="LIBERAR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wc3HgubNO0bQ5b3_XUHg-353">
+          <mxGeometry x="0.3977" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
