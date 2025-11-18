@@ -7822,7 +7822,7 @@
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-332" value="&lt;div&gt;TXTORDVEXP_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;TXT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;ORDVENDEXP_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;TPARCEXPTV_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;PESSOA_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;PADENDER_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;ENDER&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;ENDER_RESUMO&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR_CIDADE&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR_ESTADO&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR_PAIS&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;OBS&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="Wc3HgubNO0bQ5b3_XUHg-331">
           <mxGeometry y="30" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-333" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-332" target="Wc3HgubNO0bQ5b3_XUHg-290">
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-333" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-332" target="Wc3HgubNO0bQ5b3_XUHg-290">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-334" value="&lt;div style=&quot;text-align: left;&quot;&gt;padrao_ender&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
@@ -7831,7 +7831,7 @@
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-335" value="&lt;div&gt;&lt;div&gt;PADENDER_ID&lt;/div&gt;&lt;div&gt;CD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="Wc3HgubNO0bQ5b3_XUHg-334">
           <mxGeometry y="30" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-336" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-332" target="Wc3HgubNO0bQ5b3_XUHg-335">
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-336" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-332" target="Wc3HgubNO0bQ5b3_XUHg-335">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
