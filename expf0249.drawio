@@ -8226,7 +8226,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WYGtkdRPefcuH5gjRsbT-105" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="programa_embarq" vertex="1">
-          <mxGeometry height="110" width="140" x="15054.5" y="-1676.5" as="geometry" />
+          <mxGeometry height="110" width="140" x="15030" y="-1720" as="geometry" />
         </mxCell>
         <mxCell id="WYGtkdRPefcuH5gjRsbT-106" parent="WYGtkdRPefcuH5gjRsbT-105" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="PROGEMBARQ_ID&#xa;CANC         &#xa;EMBARQEXP_ID &#xa;PLANEMBEXP_ID" vertex="1">
           <mxGeometry height="80" width="140" y="30" as="geometry" />
