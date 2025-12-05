@@ -8205,12 +8205,12 @@
           <mxGeometry height="110" width="140" y="30" as="geometry" />
         </mxCell>
         <mxCell id="WYGtkdRPefcuH5gjRsbT-99" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="INICIO PELA OV ou PELO CONTRATO&amp;nbsp;&lt;br&gt;&lt;br&gt;CUIDAR QUE UM CONTRATO PODE TER VARIAS OV" vertex="1">
-          <mxGeometry height="210" width="195" x="15300" y="-1514" as="geometry" />
+          <mxGeometry height="210" width="195" x="15194.5" y="-1350" as="geometry" />
         </mxCell>
         <mxCell id="WYGtkdRPefcuH5gjRsbT-100" edge="1" parent="1" source="WYGtkdRPefcuH5gjRsbT-91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WYGtkdRPefcuH5gjRsbT-99" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WYGtkdRPefcuH5gjRsbT-102" edge="1" parent="1" source="WYGtkdRPefcuH5gjRsbT-92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.82;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" target="WYGtkdRPefcuH5gjRsbT-99">
+        <mxCell id="WYGtkdRPefcuH5gjRsbT-102" edge="1" parent="1" source="WYGtkdRPefcuH5gjRsbT-92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.838;entryY=0.884;entryDx=0;entryDy=0;exitX=0.82;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" target="WYGtkdRPefcuH5gjRsbT-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WYGtkdRPefcuH5gjRsbT-110" edge="1" parent="1" source="WYGtkdRPefcuH5gjRsbT-103" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WYGtkdRPefcuH5gjRsbT-105">
