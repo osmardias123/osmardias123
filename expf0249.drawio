@@ -7967,7 +7967,7 @@
         <mxCell id="WYGtkdRPefcuH5gjRsbT-9" parent="WYGtkdRPefcuH5gjRsbT-8" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;CARGSAIDA_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_SAIDA&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;NRO_CARGA&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;UNID_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_CRIACAO&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;EMBARQ_RETIRADA&lt;/div&gt;&lt;div&gt;IMPR_PREV_DB&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DIVISORIA&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CAMAVEICUL_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;VEICRET_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;TRANSPORTA_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;ENDER_ID_TRANSB&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="140" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="WYGtkdRPefcuH5gjRsbT-10" edge="1" parent="1" source="WYGtkdRPefcuH5gjRsbT-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WYGtkdRPefcuH5gjRsbT-9">
+        <mxCell id="WYGtkdRPefcuH5gjRsbT-10" edge="1" parent="1" source="WYGtkdRPefcuH5gjRsbT-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.686;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" target="WYGtkdRPefcuH5gjRsbT-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WYGtkdRPefcuH5gjRsbT-11" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="carga_saida_grade" vertex="1">
@@ -8054,9 +8054,6 @@
         <mxCell id="WYGtkdRPefcuH5gjRsbT-44" parent="WYGtkdRPefcuH5gjRsbT-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;HSERCARWS_ID&lt;/div&gt;&lt;div&gt;CARGSAIDA_ID&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="140" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="WYGtkdRPefcuH5gjRsbT-46" edge="1" parent="1" source="WYGtkdRPefcuH5gjRsbT-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.68;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="WYGtkdRPefcuH5gjRsbT-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WYGtkdRPefcuH5gjRsbT-47" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-281" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" target="Wc3HgubNO0bQ5b3_XUHg-269">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -8094,6 +8091,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WYGtkdRPefcuH5gjRsbT-59" edge="1" parent="1" source="WYGtkdRPefcuH5gjRsbT-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.608;entryDx=0;entryDy=0;entryPerimeter=0;" target="WYGtkdRPefcuH5gjRsbT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WYGtkdRPefcuH5gjRsbT-61" edge="1" parent="1" source="WYGtkdRPefcuH5gjRsbT-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.328;entryY=0.958;entryDx=0;entryDy=0;entryPerimeter=0;" target="WYGtkdRPefcuH5gjRsbT-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
