@@ -8336,8 +8336,11 @@
         <mxCell id="GkwVVgfIaH7VOdvSEq3P-39" parent="GkwVVgfIaH7VOdvSEq3P-38" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;PROGLANCTO_ID&lt;/div&gt;&lt;div&gt;CONTBANCTB_ID&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="35" width="150" y="35" as="geometry" />
         </mxCell>
+        <mxCell id="GkwVVgfIaH7VOdvSEq3P-129" edge="1" parent="1" source="GkwVVgfIaH7VOdvSEq3P-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GkwVVgfIaH7VOdvSEq3P-128" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GkwVVgfIaH7VOdvSEq3P-40" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="r_proglancto_contrctb" vertex="1">
-          <mxGeometry height="70" width="150" x="16470" y="-4290" as="geometry" />
+          <mxGeometry height="70" width="150" x="16520" y="-4290" as="geometry" />
         </mxCell>
         <mxCell id="GkwVVgfIaH7VOdvSEq3P-41" parent="GkwVVgfIaH7VOdvSEq3P-40" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;PROGLANCTO_ID&lt;/div&gt;&lt;div&gt;CONTRCTB_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="35" width="150" y="35" as="geometry" />
@@ -8557,11 +8560,28 @@
         <mxCell id="GkwVVgfIaH7VOdvSEq3P-119" parent="GkwVVgfIaH7VOdvSEq3P-118" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;PROGLANCTO_ID&lt;/div&gt;&lt;div&gt;ANEXDOCFIN_ID&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="35" width="150" y="35" as="geometry" />
         </mxCell>
-        <mxCell id="GkwVVgfIaH7VOdvSEq3P-120" edge="1" parent="1" source="GkwVVgfIaH7VOdvSEq3P-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.054;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" target="GkwVVgfIaH7VOdvSEq3P-116">
+        <mxCell id="GkwVVgfIaH7VOdvSEq3P-120" edge="1" parent="1" source="GkwVVgfIaH7VOdvSEq3P-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;" target="GkwVVgfIaH7VOdvSEq3P-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GkwVVgfIaH7VOdvSEq3P-121" edge="1" parent="1" source="GkwVVgfIaH7VOdvSEq3P-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.602;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" target="GkwVVgfIaH7VOdvSEq3P-35">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GkwVVgfIaH7VOdvSEq3P-124" connectable="0" parent="GkwVVgfIaH7VOdvSEq3P-121" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="so é possivel&lt;div&gt;&amp;nbsp;incluir e&amp;nbsp;&lt;div&gt;excluir se dt_autoriz&amp;nbsp;&lt;/div&gt;&lt;div&gt;estiver null&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2102" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GkwVVgfIaH7VOdvSEq3P-127" edge="1" parent="1" source="GkwVVgfIaH7VOdvSEq3P-125" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GkwVVgfIaH7VOdvSEq3P-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GkwVVgfIaH7VOdvSEq3P-125" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="lancto_vinc" vertex="1">
+          <mxGeometry height="110" width="180" x="16900" y="-4460" as="geometry" />
+        </mxCell>
+        <mxCell id="GkwVVgfIaH7VOdvSEq3P-126" parent="GkwVVgfIaH7VOdvSEq3P-125" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;LANCTOVINC_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_INCL&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;VLR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;PROGLANCTO_ID_PRINC&lt;/div&gt;&lt;div&gt;PROGLANCTO_ID_VINC&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="180" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="GkwVVgfIaH7VOdvSEq3P-128" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=35;horizontal=1;labelBackgroundColor=none;resizable=1;" value="caso não tenha contrato o&lt;div&gt;&amp;nbsp;contabil&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(26, 26, 26), rgb(215, 215, 215));&quot;&gt;precisa incluir&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(26, 26, 26), rgb(215, 215, 215));&quot;&gt;&amp;nbsp;antecipadamente, tem um&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(26, 26, 26), rgb(215, 215, 215));&quot;&gt;exemplo em pk na pk_impf0081&amp;nbsp;&lt;/span&gt;&lt;div&gt;inc_predi sobre o contrctp_id&lt;br&gt;e tem a tela&amp;nbsp;pk_conf0010 com a inc&amp;nbsp;&lt;br&gt;precisa validar as data de vigencia.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="350" x="16410" y="-4445" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
