@@ -7633,12 +7633,6 @@
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-277" parent="Wc3HgubNO0bQ5b3_XUHg-276" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;REGEXTRLOG_ID&lt;/div&gt;&lt;div&gt;PROGLANCTO_ID&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="210" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-278" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="r_contrtrans_cargsaida" vertex="1">
-          <mxGeometry height="70" width="210" x="8980" y="-4073.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-279" parent="Wc3HgubNO0bQ5b3_XUHg-278" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;CONTRTRANS_ID&lt;/div&gt;&lt;div&gt;CARGSAIDA_ID&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="210" y="40" as="geometry" />
-        </mxCell>
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-280" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="Wc3HgubNO0bQ5b3_XUHg-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -8624,6 +8618,12 @@
         </mxCell>
         <mxCell id="kAdQ1BT3cK1AfivbIllr-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp; &amp;nbsp;EXPF0029&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;validam pela&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp; EXPF0005&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="270" x="16080" y="-1990" as="geometry" />
+        </mxCell>
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-278" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="r_contrtrans_cargsaida" vertex="1">
+          <mxGeometry height="70" width="210" x="8980" y="-4073.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-279" parent="Wc3HgubNO0bQ5b3_XUHg-278" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;CONTRTRANS_ID&lt;/div&gt;&lt;div&gt;CARGSAIDA_ID&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="210" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
