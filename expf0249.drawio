@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Página-1" id="adTXmYuTbM5MDjhpA_mE">
-    <mxGraphModel dx="8501" dy="5961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7106" dy="5300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6887,7 +6887,7 @@
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=40;horizontal=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&amp;nbsp;gerar o numero do pré debit note" vertex="1">
           <mxGeometry height="75" width="110" x="7460" y="-2717.5" as="geometry" />
         </mxCell>
-        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-32" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="Wc3HgubNO0bQ5b3_XUHg-55">
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-32" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.989;exitY=0.277;exitDx=0;exitDy=0;exitPerimeter=0;" target="Wc3HgubNO0bQ5b3_XUHg-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-33" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="Wc3HgubNO0bQ5b3_XUHg-76">
@@ -7468,7 +7468,7 @@
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-222" edge="1" parent="1" source="Wc3HgubNO0bQ5b3_XUHg-219" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="Wc3HgubNO0bQ5b3_XUHg-213">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-223" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=30;horizontal=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="caso um seja nulo usa o outro para chegar no contata&lt;br&gt;no pior usa o plano e vem pelo hist_nro_container" vertex="1">
+        <mxCell id="Wc3HgubNO0bQ5b3_XUHg-223" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=30;horizontal=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="caso um seja nulo usa o outro para chegar no contrato&lt;br&gt;no pior usa o plano e vem pelo hist_nro_container" vertex="1">
           <mxGeometry height="120" width="140" x="9100" y="-2374" as="geometry" />
         </mxCell>
         <mxCell id="Wc3HgubNO0bQ5b3_XUHg-224" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;recip_carga_exp&amp;nbsp;&lt;/div&gt;" vertex="1">
