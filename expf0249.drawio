@@ -8915,10 +8915,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FPf7jzNAX-2Xun5zMuri-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="sched_transbordo" vertex="1">
-          <mxGeometry height="130" width="145" x="6310" y="2075" as="geometry" />
+          <mxGeometry height="110" width="145" x="6310" y="2075" as="geometry" />
         </mxCell>
         <mxCell id="FPf7jzNAX-2Xun5zMuri-6" parent="FPf7jzNAX-2Xun5zMuri-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;SCHETRANSB_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_SAIDA&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_ENTR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;OBS&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;SCHLOCDESE_ID&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="145" y="30" as="geometry" />
+          <mxGeometry height="80" width="145" y="30" as="geometry" />
         </mxCell>
         <mxCell id="FPf7jzNAX-2Xun5zMuri-7" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="r_schetransb_locallog" vertex="1">
           <mxGeometry height="70" width="180" x="6481" y="1997" as="geometry" />
