@@ -804,7 +804,7 @@
           <mxGeometry height="70" width="220" y="40" as="geometry" />
         </mxCell>
         <mxCell id="YMMd21XJVjTPSa2mOjRS-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="tipo_debit_note" vertex="1">
-          <mxGeometry height="110" width="220" x="2231" y="-255" as="geometry" />
+          <mxGeometry height="110" width="220" x="2247" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="YMMd21XJVjTPSa2mOjRS-10" parent="YMMd21XJVjTPSa2mOjRS-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;TPDEBITNOT_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;CD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CARCT_OBS&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="220" y="40" as="geometry" />
@@ -857,6 +857,16 @@
         </mxCell>
         <mxCell id="YMMd21XJVjTPSa2mOjRS-26" edge="1" parent="1" source="YMMd21XJVjTPSa2mOjRS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.254;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="YMMd21XJVjTPSa2mOjRS-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3r_237rOMLCzwjBkXYmN-32" connectable="0" parent="YMMd21XJVjTPSa2mOjRS-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 12px; text-align: left; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;debit_note&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.9472" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3r_237rOMLCzwjBkXYmN-33" connectable="0" parent="YMMd21XJVjTPSa2mOjRS-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 12px; text-align: left; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;responsavel_rolagem_carga_exp&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.9494" y="-3" as="geometry">
+            <mxPoint x="13" y="-166" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YMMd21XJVjTPSa2mOjRS-28" edge="1" parent="1" source="YMMd21XJVjTPSa2mOjRS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="YMMd21XJVjTPSa2mOjRS-8">
           <mxGeometry relative="1" as="geometry" />
