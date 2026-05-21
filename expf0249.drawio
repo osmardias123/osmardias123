@@ -2853,6 +2853,11 @@
             <mxPoint x="-3318" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3r_237rOMLCzwjBkXYmN-29" connectable="0" parent="mAydJYzPQ0yj5Y83mNXn-196" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 12px; text-align: left; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;despesa_log_exp&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.8704" y="-2" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mAydJYzPQ0yj5Y83mNXn-30" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;UNID_CARGA_CONTRATA_TRANSP_IMP&lt;/span&gt;" vertex="1">
           <mxGeometry height="170" width="245" x="-2679.5" y="1405" as="geometry" />
         </mxCell>
@@ -2892,6 +2897,11 @@
         </mxCell>
         <mxCell id="3r_237rOMLCzwjBkXYmN-26" connectable="0" parent="mAydJYzPQ0yj5Y83mNXn-207" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 12px; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;&amp;nbsp;contrato_compra_imp&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.9671" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3r_237rOMLCzwjBkXYmN-28" connectable="0" parent="mAydJYzPQ0yj5Y83mNXn-207" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 12px; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;seq_entr_imp&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.9594" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
