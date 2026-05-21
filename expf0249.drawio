@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="Página-1" id="adTXmYuTbM5MDjhpA_mE">
-    <mxGraphModel dx="9289" dy="6584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7345" dy="5524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2717,6 +2717,16 @@
         </mxCell>
         <mxCell id="mAydJYzPQ0yj5Y83mNXn-132" edge="1" parent="1" source="YMMd21XJVjTPSa2mOjRS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="mAydJYzPQ0yj5Y83mNXn-125">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3r_237rOMLCzwjBkXYmN-22" connectable="0" parent="mAydJYzPQ0yj5Y83mNXn-132" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 12px; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;CONFERENCIA_NFEN_CUSTEIO&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.9786" y="1" as="geometry">
+            <mxPoint x="-75" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3r_237rOMLCzwjBkXYmN-23" connectable="0" parent="mAydJYzPQ0yj5Y83mNXn-132" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 12px; text-align: left; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;vlr_conf_nfen_custeio&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.969" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mAydJYzPQ0yj5Y83mNXn-134" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;despesa_log_exp&lt;/div&gt;" vertex="1">
           <mxGeometry height="310" width="180" x="-1990" y="-170" as="geometry" />
