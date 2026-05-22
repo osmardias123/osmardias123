@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="Página-1" id="adTXmYuTbM5MDjhpA_mE">
-    <mxGraphModel dx="7943" dy="5850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6722" dy="5185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9366,6 +9366,12 @@
           <mxGeometry height="100" width="210" x="8521" y="2115" as="geometry" />
         </mxCell>
         <mxCell id="3r_237rOMLCzwjBkXYmN-48" parent="3r_237rOMLCzwjBkXYmN-47" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;CACAORVEXP_ID&lt;/div&gt;&lt;div&gt;SELECIONADO&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;ORDVENDEXP_ID&lt;/div&gt;&lt;div&gt;CARACARGA_ID&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3r_237rOMLCzwjBkXYmN-51" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;tipo_atrib_exp_tv&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="210" x="8950" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="3r_237rOMLCzwjBkXYmN-52" parent="3r_237rOMLCzwjBkXYmN-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;TPATREXPTV_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;CD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="210" y="30" as="geometry" />
         </mxCell>
       </root>
