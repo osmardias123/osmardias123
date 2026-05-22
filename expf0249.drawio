@@ -3217,7 +3217,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8050" y="710" />
-              <mxPoint x="9405" y="710" />
+              <mxPoint x="9390" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3525,10 +3525,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ef9e07ggXPfNFpvya9bL-187" edge="1" parent="1" source="ef9e07ggXPfNFpvya9bL-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.577;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="ef9e07ggXPfNFpvya9bL-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8160" y="730" />
+              <mxPoint x="9621" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3r_237rOMLCzwjBkXYmN-21" connectable="0" parent="ef9e07ggXPfNFpvya9bL-187" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 12px; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;incoterms_tv&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.9616" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3r_237rOMLCzwjBkXYmN-39" connectable="0" parent="ef9e07ggXPfNFpvya9bL-187" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 12px; text-align: left; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;ordem_venda_exp&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.9521" y="4" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
