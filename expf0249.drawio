@@ -9390,6 +9390,16 @@
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-26" edge="1" parent="1" source="uuPAnOf8PyXEYYfxHnUH-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uuPAnOf8PyXEYYfxHnUH-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-61" edge="1" parent="1" source="uuPAnOf8PyXEYYfxHnUH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uuPAnOf8PyXEYYfxHnUH-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3086" y="3890" />
+              <mxPoint x="3456" y="3890" />
+              <mxPoint x="3456" y="3877" />
+              <mxPoint x="3826" y="3877" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-8" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="posicao_fisica_reserva_estoque" vertex="1">
           <mxGeometry height="203" width="210" x="2981" y="3946" as="geometry" />
         </mxCell>
@@ -9459,8 +9469,11 @@
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-32" parent="uuPAnOf8PyXEYYfxHnUH-31" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;POSMESESTO_ID&lt;/div&gt;&lt;div&gt;MES_ANO&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;QTDE_ANTER&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;QTDE_ENTRADA&amp;nbsp;&lt;/div&gt;&lt;div&gt;QTDE_SAIDA&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;VLR_ANTER&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;VLR_ENTRADA&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;VLR_SAIDA&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;VLR_REPOS&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;ESTOQUE_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;VLR_MEDIO&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SGESTOQUE_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;CLATEMPEST_ID&lt;/div&gt;&lt;div&gt;REPL_FECH&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="230" width="210" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-59" edge="1" parent="1" source="uuPAnOf8PyXEYYfxHnUH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="uuPAnOf8PyXEYYfxHnUH-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-22" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="saldo_posicao_fisica_depo" vertex="1">
-          <mxGeometry height="110" width="210" x="3211" y="4390" as="geometry" />
+          <mxGeometry height="110" width="210" x="3161" y="4597" as="geometry" />
         </mxCell>
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-23" parent="uuPAnOf8PyXEYYfxHnUH-22" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;SALPOFISDE_ID&lt;/div&gt;&lt;div&gt;QTDE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;POSMESESTO_ID&lt;/div&gt;&lt;div&gt;POLFISDEPO_ID&lt;/div&gt;&lt;div&gt;INVENT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="210" y="30" as="geometry" />
@@ -9481,7 +9494,7 @@
           <mxGeometry height="460" width="240" y="30" as="geometry" />
         </mxCell>
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-43" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="lote_estoque" vertex="1">
-          <mxGeometry height="100" width="210" x="3351" y="4568" as="geometry" />
+          <mxGeometry height="100" width="210" x="3321" y="4404" as="geometry" />
         </mxCell>
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-44" parent="uuPAnOf8PyXEYYfxHnUH-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;LOTESTOQUE_ID&lt;/div&gt;&lt;div&gt;QTDE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;ESTOQUE_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;LOTE_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="210" y="30" as="geometry" />
@@ -9499,13 +9512,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-49" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="pallet" vertex="1">
-          <mxGeometry height="110" width="210" x="3690" y="4800" as="geometry" />
+          <mxGeometry height="110" width="210" x="3721" y="3896.5" as="geometry" />
         </mxCell>
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-50" parent="uuPAnOf8PyXEYYfxHnUH-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;PALLET_ID&lt;/div&gt;&lt;div&gt;CD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;QTDE&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;UNID_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="210" y="30" as="geometry" />
         </mxCell>
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-51" edge="1" parent="1" source="eZWfAItAfvC5YcXbK488-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.8;entryY=0.691;entryDx=0;entryDy=0;entryPerimeter=0;" target="eZWfAItAfvC5YcXbK488-75">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-60" edge="1" parent="1" source="uuPAnOf8PyXEYYfxHnUH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uuPAnOf8PyXEYYfxHnUH-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-52" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="saldo_posicao_fisica_pallet" vertex="1">
+          <mxGeometry height="130" width="210" x="3670" y="4968.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-53" parent="uuPAnOf8PyXEYYfxHnUH-52" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;SALPOFIPAL_ID&lt;/div&gt;&lt;div&gt;QTDE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;PALLET_ID&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;ESTOQUE_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;SALPOFISDE_ID&lt;/div&gt;&lt;div&gt;LOTE_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-58" edge="1" parent="1" source="uuPAnOf8PyXEYYfxHnUH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uuPAnOf8PyXEYYfxHnUH-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-54" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="lista_pais_pallet_lote" vertex="1">
+          <mxGeometry height="150" width="210" x="3711" y="5194.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-55" parent="uuPAnOf8PyXEYYfxHnUH-54" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;LISPAPALOT_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SALPOFIPAL_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;LISTAPAIS_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;PRINC&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-56" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="lista_pais" vertex="1">
+          <mxGeometry height="110" width="210" x="3336" y="5220.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-57" parent="uuPAnOf8PyXEYYfxHnUH-56" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;LISTAPAIS_ID&lt;/div&gt;&lt;div&gt;CD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;NEGOC&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;TP_LISTA&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
