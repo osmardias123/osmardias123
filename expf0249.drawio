@@ -6169,7 +6169,7 @@
         <mxCell id="eZWfAItAfvC5YcXbK488-3" edge="1" parent="1" source="hjr0-9yeqz8_E8lbz6lB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.786;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="eZWfAItAfvC5YcXbK488-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eZWfAItAfvC5YcXbK488-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+        <mxCell id="eZWfAItAfvC5YcXbK488-4" parent="1" style="rounded=0;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;html=1;" value="" vertex="1">
           <mxGeometry height="1596" width="3509" x="661" y="3795.5" as="geometry" />
         </mxCell>
         <mxCell id="eZWfAItAfvC5YcXbK488-12" edge="1" parent="1" source="eZWfAItAfvC5YcXbK488-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" target="eZWfAItAfvC5YcXbK488-11" value="">
@@ -9461,6 +9461,12 @@
         </mxCell>
         <mxCell id="uuPAnOf8PyXEYYfxHnUH-33" edge="1" parent="1" source="uuPAnOf8PyXEYYfxHnUH-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uuPAnOf8PyXEYYfxHnUH-31">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-35" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="depo" vertex="1">
+          <mxGeometry height="160" width="210" x="2611" y="4462.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uuPAnOf8PyXEYYfxHnUH-36" parent="uuPAnOf8PyXEYYfxHnUH-35" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;DEPO_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CAPAC&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;UNID_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;TPGRPESTTV_ID&lt;/div&gt;&lt;div&gt;PERTDEPOTV_ID&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="210" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
