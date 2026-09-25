@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="Og9sL8v1L2C70fEgC0Kd">
-    <mxGraphModel dx="7798" dy="5790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8132" dy="5976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11177,6 +11177,18 @@
           <mxGeometry height="90" width="140" y="30" as="geometry" />
         </mxCell>
         <mxCell id="o-9lfabk0gjbJbsDiYpC-5" edge="1" parent="1" source="o-9lfabk0gjbJbsDiYpC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;" target="gtWYZmPtFHNGb7_xIeTQ-493">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0F52BlV5vGGppHb9CZPT-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFD966,#AF543C);" value="&lt;span&gt;r_ordvendexp_detclasarq&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="180" x="4250" y="-1638.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0F52BlV5vGGppHb9CZPT-2" parent="0F52BlV5vGGppHb9CZPT-1" style="text;strokeColor=none;fillColor=#FFE599;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;ORDVENDEXP_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;DETCLASARQ_ID&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0F52BlV5vGGppHb9CZPT-3" edge="1" parent="1" source="0F52BlV5vGGppHb9CZPT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.351;entryDx=0;entryDy=0;entryPerimeter=0;" target="5De_2qTLSJf9czu83G7W-329">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0F52BlV5vGGppHb9CZPT-4" edge="1" parent="1" source="5De_2qTLSJf9czu83G7W-150" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" target="gtWYZmPtFHNGb7_xIeTQ-717">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
