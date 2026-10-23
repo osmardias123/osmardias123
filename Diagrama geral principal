@@ -11275,6 +11275,9 @@
         <mxCell id="xnLfuOzkzY8Bx9duWDTm-81" edge="1" parent="1" source="xnLfuOzkzY8Bx9duWDTm-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xnLfuOzkzY8Bx9duWDTm-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xnLfuOzkzY8Bx9duWDTm-205" edge="1" parent="1" source="xnLfuOzkzY8Bx9duWDTm-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="xnLfuOzkzY8Bx9duWDTm-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xnLfuOzkzY8Bx9duWDTm-24" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="tipo_integr_wms_tv" vertex="1">
           <mxGeometry height="145" width="150" x="17150" y="-1775" as="geometry" />
         </mxCell>
@@ -11437,6 +11440,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xnLfuOzkzY8Bx9duWDTm-185" edge="1" parent="1" source="xnLfuOzkzY8Bx9duWDTm-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xnLfuOzkzY8Bx9duWDTm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnLfuOzkzY8Bx9duWDTm-206" edge="1" parent="1" source="xnLfuOzkzY8Bx9duWDTm-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xnLfuOzkzY8Bx9duWDTm-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xnLfuOzkzY8Bx9duWDTm-82" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="unid" vertex="1">
@@ -11741,6 +11747,12 @@
         </mxCell>
         <mxCell id="xnLfuOzkzY8Bx9duWDTm-200" parent="xnLfuOzkzY8Bx9duWDTm-199" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;CTRLAUDLOT_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;LAUDO&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;RESULT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_PREV_RET&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;MOTIV&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;LOTE_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;LISTAPAIS_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xnLfuOzkzY8Bx9duWDTm-203" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="v_wms_fluxo_pv_pend" vertex="1">
+          <mxGeometry height="310" width="150" x="17510" y="-2413" as="geometry" />
+        </mxCell>
+        <mxCell id="xnLfuOzkzY8Bx9duWDTm-204" parent="xnLfuOzkzY8Bx9duWDTm-203" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;ORDEMPICK_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;CD_ORDEMPICK&amp;nbsp;&lt;/div&gt;&lt;div&gt;FLUXO&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;PICKING_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CD_PICKING&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;UNID_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CD_UNID&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;ITEM_ID&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CD_ITEM&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CARGSAIDA_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_SAIDA&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;LOCALLOG_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;EMBARQWMS_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;SG_TPCARWMSTV&lt;/div&gt;&lt;div&gt;SG_TPINTWMSTV&lt;/div&gt;&lt;div&gt;UNID_ID_ORIG&amp;nbsp;&lt;/div&gt;&lt;div&gt;CD_UNID_ORIG&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="275" width="150" y="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
