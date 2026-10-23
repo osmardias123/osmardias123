@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="Og9sL8v1L2C70fEgC0Kd">
-    <mxGraphModel dx="6499" dy="5068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6811" dy="5240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11522,7 +11522,7 @@
           <mxGeometry height="80" width="80" x="16420" y="-1150" as="geometry" />
         </mxCell>
         <mxCell id="xnLfuOzkzY8Bx9duWDTm-115" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="tipo_processo_integr_tv" vertex="1">
-          <mxGeometry height="95" width="150" x="16735" y="-1062.5" as="geometry" />
+          <mxGeometry height="95" width="150" x="16720" y="-1145" as="geometry" />
         </mxCell>
         <mxCell id="xnLfuOzkzY8Bx9duWDTm-116" parent="xnLfuOzkzY8Bx9duWDTm-115" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;TPPRWMSINT_ID&lt;/div&gt;&lt;div&gt;CD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" y="35" as="geometry" />
@@ -11601,6 +11601,23 @@
         </mxCell>
         <mxCell id="xnLfuOzkzY8Bx9duWDTm-149" parent="xnLfuOzkzY8Bx9duWDTm-148" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;USUWMS_ID&lt;/div&gt;&lt;div&gt;SIT&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="47.5" width="110" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="xnLfuOzkzY8Bx9duWDTm-151" edge="1" parent="1" source="xnLfuOzkzY8Bx9duWDTm-107" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" target="xnLfuOzkzY8Bx9duWDTm-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnLfuOzkzY8Bx9duWDTm-152" connectable="0" parent="xnLfuOzkzY8Bx9duWDTm-151" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 12px; text-align: left; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;ST_CONTABIL_ORIG&lt;br&gt;=&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap;&quot;&gt;cd&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1918" as="geometry">
+            <mxPoint x="10" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnLfuOzkzY8Bx9duWDTm-153" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="motiv_reserva_estoque_tv" vertex="1">
+          <mxGeometry height="180" width="210" x="16920" y="-1130" as="geometry" />
+        </mxCell>
+        <mxCell id="xnLfuOzkzY8Bx9duWDTm-154" parent="xnLfuOzkzY8Bx9duWDTm-153" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;MOTRESTOTV_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;MODO_LANCTO&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;SALDO_COMERC&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CANC_MANUAL&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CANC_JOB&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;ENVIA_EMAIL&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;TPEMAILTV_ID&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CANC_INTEGRA_MWS&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xnLfuOzkzY8Bx9duWDTm-155" edge="1" parent="1" source="xnLfuOzkzY8Bx9duWDTm-117" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;" target="xnLfuOzkzY8Bx9duWDTm-154">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
