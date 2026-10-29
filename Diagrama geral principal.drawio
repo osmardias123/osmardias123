@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="Og9sL8v1L2C70fEgC0Kd">
-    <mxGraphModel dx="7483" dy="5616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8213" dy="6021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11363,7 +11363,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xnLfuOzkzY8Bx9duWDTm-49" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="origem_carga_saida" vertex="1">
-          <mxGeometry height="155" width="150" x="15990" y="-1777" as="geometry" />
+          <mxGeometry height="155" width="150" x="15990" y="-1770" as="geometry" />
         </mxCell>
         <mxCell id="xnLfuOzkzY8Bx9duWDTm-50" parent="xnLfuOzkzY8Bx9duWDTm-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;ORIGCARSAI_ID&lt;/div&gt;&lt;div&gt;PREV_CARGA&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;GRADE_CARGA&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SEQ_CARGA&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;LOCALLOG_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;CARGSAIDA_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_INCL&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;PRIORID&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="150" y="35" as="geometry" />
