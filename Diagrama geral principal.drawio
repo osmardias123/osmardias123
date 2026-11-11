@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="Og9sL8v1L2C70fEgC0Kd">
-    <mxGraphModel dx="6961" dy="5369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6765" dy="5218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11799,7 +11799,7 @@
         <mxCell id="6u7xJPSWMUQZZUAES9b9-2" parent="6u7xJPSWMUQZZUAES9b9-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;GECSIMALTE_ID&amp;nbsp;&lt;/div&gt;&lt;div&gt;NRO_SEQ_MALOTE&lt;/div&gt;&lt;div&gt;DT_CAD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;STATUS_MALOTE&amp;nbsp;&lt;/div&gt;&lt;div&gt;UNID_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;NRO_LACRE&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;RECEBIDO&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_RECEBIDO&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;CARGSAIDA_ID&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID_DOC&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID_FAT&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="180" width="150" y="35" as="geometry" />
         </mxCell>
-        <mxCell id="6u7xJPSWMUQZZUAES9b9-5" edge="1" parent="1" source="6u7xJPSWMUQZZUAES9b9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="6u7xJPSWMUQZZUAES9b9-2">
+        <mxCell id="6u7xJPSWMUQZZUAES9b9-5" edge="1" parent="1" source="6u7xJPSWMUQZZUAES9b9-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="6u7xJPSWMUQZZUAES9b9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6u7xJPSWMUQZZUAES9b9-3" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: start; font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;OCOR_CSI_MALOTE&lt;/div&gt;" vertex="1">
@@ -11808,7 +11808,7 @@
         <mxCell id="6u7xJPSWMUQZZUAES9b9-4" parent="6u7xJPSWMUQZZUAES9b9-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;OCORCSIMAL_ID&lt;/div&gt;&lt;div&gt;TP_OCOR&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_OCOR&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR_OCOR&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;GECSIMALTE_ID&lt;/div&gt;&lt;div&gt;DT_ATUAL&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="115" width="150" y="35" as="geometry" />
         </mxCell>
-        <mxCell id="6u7xJPSWMUQZZUAES9b9-8" edge="1" parent="1" source="6u7xJPSWMUQZZUAES9b9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+        <mxCell id="6u7xJPSWMUQZZUAES9b9-8" edge="1" parent="1" source="6u7xJPSWMUQZZUAES9b9-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="16580" y="-3070" as="targetPoint" />
           </mxGeometry>
@@ -11819,7 +11819,7 @@
         <mxCell id="6u7xJPSWMUQZZUAES9b9-7" parent="6u7xJPSWMUQZZUAES9b9-6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;OCDOCSIMLT_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DADCOMPDOC_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;GECSIDOCMA_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;OCORCSIMAL_ID&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;USU_ID&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;SIT_OCOR&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_CAD_OCOR&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR_OCOR&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;DT_ATUAL_OCOR&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;DESCR_ATUAL_OCOR&lt;/div&gt;&lt;div&gt;USU_ID_OCOR&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="165" width="180" y="35" as="geometry" />
         </mxCell>
-        <mxCell id="6u7xJPSWMUQZZUAES9b9-11" edge="1" parent="1" source="6u7xJPSWMUQZZUAES9b9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.825;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;entryPerimeter=0;" target="6u7xJPSWMUQZZUAES9b9-2">
+        <mxCell id="6u7xJPSWMUQZZUAES9b9-11" edge="1" parent="1" source="6u7xJPSWMUQZZUAES9b9-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.383;entryY=0.999;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;entryPerimeter=0;" target="6u7xJPSWMUQZZUAES9b9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6u7xJPSWMUQZZUAES9b9-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: start; font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;gestao_docto_csi_malote&lt;/div&gt;" vertex="1">
@@ -11830,6 +11830,9 @@
         </mxCell>
         <mxCell id="6u7xJPSWMUQZZUAES9b9-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontStyle=0;startSize=35;horizontal=1;labelBackgroundColor=none;resizable=1;" value="pai" vertex="1">
           <mxGeometry height="25" width="50" x="16100" y="-3195" as="geometry" />
+        </mxCell>
+        <mxCell id="rhhSRJ-ZbStvbMOLDFDe-1" edge="1" parent="1" source="6u7xJPSWMUQZZUAES9b9-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="6u7xJPSWMUQZZUAES9b9-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
